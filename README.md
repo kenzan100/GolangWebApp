@@ -1,2 +1,2 @@
 # GolangWebApp
-To answer a question "Is Golang powerful enough not needing its own web framework?"
+To answer a question "Is Golang powerful enough that it won't need its own web framework?"
